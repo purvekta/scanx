@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "134149862213",
+    "firebase_url": "https://scanx-bb23f.firebaseio.com",
+    "project_id": "scanx-bb23f",
+    "storage_bucket": "scanx-bb23f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134149862213:android:2e1af34f0b8209cfe9842c",
+        "android_client_info": {
+          "package_name": "com.example.scanx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134149862213-071ce2tlch74ikk9oujr6mv9cu91tvbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNea9g2J50Axh_qa8Tkry82vZNMJVlWQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134149862213-071ce2tlch74ikk9oujr6mv9cu91tvbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7876420299477023~7988831429"
+    }
+  ],
+  "configuration_version": "1"
+}
